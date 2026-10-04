@@ -59,7 +59,7 @@ published here.
 
 - `database/` – the Access application (images removed)
 - `data/csv/` – open export of all tables
-- `presentation/` – the 2013 presentation (PPT and PDF)
+- `presentation/` – the 2013 presentation (PDF)
 
 ## Credits
 
