@@ -85,3 +85,5 @@ available on the website of the
 [Biblioteca Civica Guarneriana](https://www.guarneriana.it).
 
 To cite this repository, see `CITATION.cff`.
+
+Archived on Zenodo: [https://doi.org/10.5281/zenodo.23136642](https://doi.org/10.5281/zenodo.23136642) (all versions).
