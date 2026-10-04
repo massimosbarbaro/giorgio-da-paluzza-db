@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this database, please cite it as below."
+type: dataset
+title: "Giorgio da Paluzza: a relational database of notarial registers"
+authors:
+  - family-names: Sbarbaro
+    given-names: Massimo
+    orcid: "https://orcid.org/0009-0006-8965-9013"
+    affiliation: "Znanstveno-raziskovalno središče Koper (ZRS Koper)"
+  - family-names: Brunettin
+    given-names: Giordano
+    orcid: "https://orcid.org/0009-0001-1689-7815"
+license: CC-BY-4.0
+repository-code: "https://github.com/massimosbarbaro/giorgio-da-paluzza-db"
+keywords:
+  - medieval notarial registers
+  - Friuli
+  - relational database
+  - FAIR data
+references:
+  - type: book
+    title: "I registri notarili di Giorgio da Paluzza. Anni 1388, 1383, 1384, 1389, 1391 (Fondo Fontanini LXV – Cod. 38)"
+    authors:
+      - family-names: Brunettin
+        given-names: Giordano
+    year: 2017
+    publisher:
+      name: "Poligrafiche San Marco"
+    location:
+      name: Cormons
+    collection-title: "Quaderno Guarneriano, n.s., 8"
+    isbn: "978-88-941695-1-5"
