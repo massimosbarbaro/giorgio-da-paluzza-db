@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this database, please cite it as below."
 type: dataset
-title: "Giorgio da Paluzza: a relational database of notarial registers"
+title: "Giorgio da Paluzza: a relational database of medieval notarial registers"
 authors:
   - family-names: Sbarbaro
     given-names: Massimo

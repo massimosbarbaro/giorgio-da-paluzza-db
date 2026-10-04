@@ -1,10 +1,11 @@
-# Giorgio da Paluzza: a relational database of notarial registers
+# Giorgio da Paluzza: a relational database of medieval notarial registers
 
 *Baza podatkov o notarskih dokumentih notarja Giorgia da Paluzza*
 
 This repository publishes the database I designed and programmed for the
 notarial registers of Giorgio da Paluzza, notary in San Daniele del Friuli,
-together with the 2013 presentation of the project. Starting from this
+together with the 2013 presentation of the project. The database was built
+in 2013 and is published here for the first time in 2026. Starting from this
 application, the repository develops a relational data model based on the
 FAIR principles and on current methods for the digital processing of
 medieval notarial sources.
